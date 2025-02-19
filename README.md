@@ -1,2 +1,1 @@
-# gtst_course
- My first repository!
+This is note written while taking the Geeth Tech Security Taster`&reg` course.
