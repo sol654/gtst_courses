@@ -1,1 +1,1 @@
-This is note written while taking the Geeth Tech Security Taster`&reg` course.
+This is note written while taking the Geeth Tech Security Taster`&reg;` course.
