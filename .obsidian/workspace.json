@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day2_linux.md.md",
+                "file": "Day_3(part 1) kali linux overview and linux commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day2_linux.md"
+              "title": "Day_3(part 1) kali linux overview and linux commands"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "14f055259e5d4d85",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Day2_linux.md.md",
+    "Day_3(part 1) kali linux overview and linux commands.md",
+    "Untitled.canvas",
     "Day2_Introduction to cyber security.md",
     "Day1_Introduction.md",
     "Williams.jpg",
