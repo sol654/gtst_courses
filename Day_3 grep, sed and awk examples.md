@@ -1,6 +1,6 @@
 1, grep example
-![[grep, wordCount(wc) eg.jpg]]
+![[grep_wordCount(wc)_eg.jpg]]
 2, sed example
-![[sed example.jpg]]
+![[sed_example.jpg]]
 3, awk example
-![[awk example.jpg]]
+![[awk_example.jpg]]
