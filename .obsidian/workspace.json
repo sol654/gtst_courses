@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day_5 Advanced linux for users(part1).md",
+                "file": "Day_6 Finishing on linux(part2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day_5 Advanced linux for users(part1)"
+              "title": "Day_6 Finishing on linux(part2)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#User",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6bcf7ba4ad3d265b",
@@ -172,8 +170,14 @@
   },
   "active": "607b70df74779b8e",
   "lastOpenFiles": [
-    "Williams.jpg",
+    "Day_1 Introduction.md",
+    "Day_2 linux.md.md",
+    "Day_2 Introduction to cyber security.md",
+    "Day_6 Finishing on linux(part2).md",
+    "Day_6 Finishing on linux(part1).md",
+    "Day_5 Advanced linux for users(part2).md",
     "Day_5 Advanced linux for users(part1).md",
+    "Williams.jpg",
     "Day_4 More for linux and text editors(part2).md",
     "Day_3 grep, sed and awk examples.md",
     "Day_3_grep_sed_and_awk_examples.md",
@@ -186,16 +190,12 @@
     "1.Example Screenshots/grep_wordCount(wc)_eg.jpg",
     "1.Example Screenshots/echo_mkdir_and_touch eg.jpg",
     "1.Example Screenshots/awk_example.jpg",
-    "grep, wordCount(wc) eg.jpg",
     "1.Example Screenshots/awk example.jpg.~tmp",
     "1.Example Screenshots/sed example.jpg.~tmp",
     "Day_4 More for linux and text editors.md",
     "Day_3(part 2) linux commands and multiple  cmd excutions.md",
     "Day_3(part 1) kali linux overview and linux commands.md",
-    "Day2_linux.md.md",
     "Untitled.canvas",
-    "Day2_Introduction to cyber security.md",
-    "Day1_Introduction.md",
     "Don.md",
     "![[Don.md",
     "2025-02-21.md",

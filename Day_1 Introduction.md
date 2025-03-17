@@ -16,7 +16,7 @@ Hello **this** is test
 # Some markdown techniques for Github
 **NB**. *Obsidian* a software best for writing a markdown notes for repository.
 
-1- For todo list **checkbox** - [ ] and then space.
+1- For todo list **checkbox** - [ ] and then make space in the brace.
 eg-
 - [x] checkbox example1
 - [ ] checkbox example2
