@@ -1,4 +1,9 @@
-
+### Operators
+- Special symbols, performs on variables and Values.
+- There are lots of operators type on python:
+-> *Arithmetic, Assignment, Comparison, Logical, Bitwise, and Special Operators*
+**A**. **Arithmetic Operator**: simple mathematics operators`( +, -, *, /, **, % ).`
+     - Inputs have to be in *int, eval, float* only.
 **B. Assignment Operator (a == b)**:
    - Addition assignment (a+=b)
    - Remainder assignment (a %= b )
