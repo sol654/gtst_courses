@@ -13,7 +13,7 @@
           **Operators**: `( ==, !=, >, <, >=, <= )`
           **Eg**.   `print("a > b", a>b)`
 **D. Logical operators**: checks if T or F.
-          **Operators**: And(`and`), Or( || ), Not(`not`)
+          **Operators**: And(`and`), Or( or ), Not(`not`)
           **Eg**.   `a = 2`
               `b = 3`
               `c = a<b and a>b`           `# T  and  F`
