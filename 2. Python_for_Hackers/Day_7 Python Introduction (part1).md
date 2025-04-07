@@ -3,7 +3,9 @@
 - **Algorithm**: used to understand algorithm of a program.
 - **Pseudocode**: used to understand algorithm and program.
 -**Eg**. A pseudocode for a system that can accept **Username** and **password**:
-   *so/n.*      BEGIN
+   *so/n.*
+```
+         BEGIN
              prompt user or username
              prompt user for password
              If `username` and password match
@@ -11,8 +13,11 @@
              else
                  DISPLAY "Login failed"
 		END
+```
 -Eg2. pseudo code for calculator:
-   *so/n*.       BEGIN
+   *so/n*. 
+```
+         BEGIN
              DISPLAY 'Enter the first number:'
              Input number1
             `DISPLAY` 'Enter the second number:'
@@ -20,6 +25,7 @@
              Result = number1 + number2
              DISPLAY "Result:", Result
          END
+```
 ### Evaluation of I/O(Input or Output)
 1. Paper(**punch cards with all data**) and output was to a **line printer**.
 2. **Interactive processing**: in a **question and answer format**.

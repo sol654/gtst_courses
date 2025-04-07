@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8e34f2a8046017",
+        "id": "f0de28697223b88a",
         "type": "tabs",
         "children": [
           {
-            "id": "60b0ef37bd983409",
+            "id": "22f8f553ec103fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Python_for_Hackers/Day_9 Further on python(part1).md",
+                "file": "2. Python_for_Hackers/Day_9 Further on python(part2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day_9 Further on python(part1)"
+              "title": "Day_9 Further on python(part2)"
             }
           }
         ]
@@ -168,24 +168,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60b0ef37bd983409",
+  "active": "22f8f553ec103fbf",
   "lastOpenFiles": [
-    "2. Python_for_Hackers/Day_9 Further on python(part2).md",
     "2. Python_for_Hackers/Day_9 Further on python(part1).md",
+    "2. Python_for_Hackers/Day_9 Further on python(part2).md",
+    "Python_Practices/oop.py",
+    "Python_Practices/lambda.py",
     "2. Python_for_Hackers/Day_8 Core of python programming(part3).md",
-    "Python_Practices/range-len.py",
     "2. Python_for_Hackers/Day_8 Core of python programming(part2).md",
-    "Python_Practices/constructors.py",
-    "Python_Practices/class.py",
-    "2. Python_for_Hackers/operators.py",
     "2. Python_for_Hackers/Day_8 Core of python programming(part1).md",
     "2. Python_for_Hackers/Day_7 Python Introduction (part2).md",
     "2. Python_for_Hackers/Day_7 Python Introduction (part1).md",
+    "Bash_script/Day_10  Bash Programing(part1).md",
+    "Bash_script/Day_10 Bash Programming(part2).md",
+    "10 -eq  10 && 5 -gt 4.md",
+    "Bash_script",
+    "Python_Practices/range-len.py",
+    "Python_Practices/constructors.py",
+    "Python_Practices/class.py",
+    "2. Python_for_Hackers/operators.py",
     "Untitled.md",
     "My Udemy data- analysis certificate.md",
     "Data Analysis-Udacity certificate .pdf",
     "Untitled 1",
-    "Untitled",
     "U",
     "Day_1 Introduction.md",
     "Day_2 linux.md.md",
@@ -207,15 +212,10 @@
     "1.Example Screenshots/grep_wordCount(wc)_eg.jpg",
     "1.Example Screenshots/echo_mkdir_and_touch eg.jpg",
     "1.Example Screenshots/awk_example.jpg",
-    "1.Example Screenshots/awk example.jpg.~tmp",
-    "1.Example Screenshots/sed example.jpg.~tmp",
     "Day_4 More for linux and text editors.md",
     "Day_3(part 2) linux commands and multiple  cmd excutions.md",
     "Day_3(part 1) kali linux overview and linux commands.md",
     "Untitled.canvas",
-    "Don.md",
-    "![[Don.md",
-    "2025-02-21.md",
     "Untitled 1.canvas"
   ]
 }
