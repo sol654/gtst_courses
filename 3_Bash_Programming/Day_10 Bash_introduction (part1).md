@@ -1,3 +1,5 @@
+## BASH
+
 **Bash**: Bourne Again Shell.
 **Script**: holds shell commands
 - First bourne shell is *sh*.
@@ -17,19 +19,25 @@ Editors: Vscode, nano, VIM, gedit, cherrytree...
 - To run:  `/bin/bash fileName.sh`
 - or, To run with '`./`' , give file permission to the file: `chmod +x fileName.sh`
   then use:  `./fileName.sh`
-Eg.  `#! /bin/bash`
-    `echo "Hello world"`
-    `echo "Welcome"`
+Eg.
+```
+    #! /bin/bash
+    echo "Hello world"
+    echo "Welcome"
+```
 Then run:  `./fileName.sh`
 If we enter `echo` between two echos, it wil create a new line.
 # Variables 
 `var_name = 'values'`      ...not correct
 `var_name=value`            .....correct
 - No need of space when you create a variable.
-Eg.  `#! /bin/bash`
-    `Name="Sol"`
-    `Sport="Game"`
-    `echo "Your name is $Name, you love ${Sport}s"`   
+Eg.
+```
+    #! /bin/bash
+    Name="Sol"
+    Sport="Game"
+    echo "Your name is $Name, you love ${Sport}s"   
+```
     "${ }" is used remove the space after variable. Eg. in the above code ${Sport}s displays: Games
 NB. Use splited terminals like this:
 ```

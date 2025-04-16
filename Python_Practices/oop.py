@@ -58,6 +58,6 @@ solace_cptr = computer("Hp", "core i5")
 print(f"The value of solace computer: {solace_cptr.price}")    
         # Prints: 1000
 solace_cptr.setprice(2000)   # Changing the value of price
-print(f"The value of solace computer is: {solace_cptr.price}")
+print(f"The updated value of my computer is: {solace_cptr.price}")
         # prints: 2000
         
